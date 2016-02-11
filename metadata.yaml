@@ -1,0 +1,25 @@
+_repo: The-Motor-Boat-Club-off-Long-Island-or-A-Daring-Marine-Game-at-Racing-Speed_48863
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_issued: '2015-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Motorboats -- Juvenile fiction'
+- !lcsh 'Long Island (N.Y.) -- Juvenile fiction'
+title: The Motor Boat Club off Long Island; or, A Daring Marine Game at Racing Speed
+url: http://www.gutenberg.org/ebooks/48863
